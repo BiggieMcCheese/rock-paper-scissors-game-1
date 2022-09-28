@@ -20,3 +20,4 @@ while(True):
         print('Human wins!')
     else:
         print('Computer wins!')
+ ir ight
